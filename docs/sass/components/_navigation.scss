@@ -1,0 +1,30 @@
+
+.navigation {
+    background: $clr-navbg;
+    color: $clr-navtxt;
+    padding: 1.0em 2.0em;
+    width: 100%;
+
+    a {
+        color: $clr-off-white;
+        margin: 0 0.5em;
+        text-decoration: none;
+
+        &:hover {
+            color: $clr-red;
+        }
+    }
+
+    .logo {
+        display: inline-block;
+    }
+}
+
+nav {
+    display: inline-block;
+    margin-left: 2.0em;
+
+    a {
+        color: $clr-blue;
+    }
+}

@@ -1,0 +1,52 @@
+{
+  "name": "opendataday2017",
+  "version": "1.0.0",
+  "description": "Open Data Day 2017 - Dayton",
+  "scripts": {
+    "jekyll": "jekyll build --incremental --source docs --destination build",
+    "lint:sass": "sass-lint -c .sass-lint.yml -v",
+    "presass": "npm-run-all lint:sass",
+    "sass": "node-sass --source-map true --include-path docs/sass --include-path node_modules docs/sass/main.scss docs/styles/bundle.css",
+    "postsass": "postcss -c postcss.config.json",
+    "watch": "npm-run-all --parallel watch:jekyll watch:sass",
+    "watch:jekyll": "nodemon -w docs -e html,md,png,jpg,gif,svg,yml,xml,js,css,yml --ignore docs/sass -x \"npm run jekyll\"",
+    "watch:sass": "nodemon -e scss -w docs/sass -x \"npm run sass\"",
+    "server:dev": "babel-node tools/runBrowserSync.js",
+    "prebuild": "rimraf build",
+    "build": "npm-run-all sass jekyll",
+    "prestart": "npm run build",
+    "start": "npm-run-all --parallel server:dev watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codefordayton/opendataday2017.git"
+  },
+  "author": "Code for Dayton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendataday2017/issues"
+  },
+  "dependencies": {
+        "babel-cli": "^6.18.0",
+        "babel-core": "^6.21.0",
+        "babel-loader": "^6.2.10",
+        "babel-preset-es2015": "^6.18.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.6.0",
+    "bluebird": "^3.4.6",
+    "browser-sync": "^2.18.5",
+    "copy-dir": "^0.3.0",
+    "cssnano": "^3.9.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.17.1",
+    "node-sass": "^4.1.1",
+    "nodemon": "^1.11.0",
+    "normalize.css": "^5.0.0",
+    "npm-run-all": "^3.1.2",
+    "postcss-cli": "^2.6.0",
+    "prismjs": "^1.6.0",
+    "rimraf": "^2.5.4",
+    "sass-lint": "^1.10.2"
+  }
+}
