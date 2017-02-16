@@ -8,7 +8,19 @@ permalink: /
 description of open data day, link to odd website, cfd website, this github
 
 ## Data
-list of data sources
+* [Ohio Open Elections Data](https://github.com/openelections/openelections-data-oh)
+* [MVRPC Regional Resources](http://mvrpc.maps.arcgis.com/home/group.html?owner=tharner%40mvrpc.org&title=MVRPC%20Regional%20Resources&focus=all&q=)
+* [Zillow Neighborhood Boundaries](https://www.zillow.com/howto/api/neighborhood-boundaries.htm)
+* [POI Factory](http://www.poi-factory.com/)
+* [College Scorecard Data](https://collegescorecard.ed.gov/data/)
+* [ProPublica Congress Data API](https://propublica.github.io/congress-api-docs)
+* [Data World](https://data.world/)
+* [Data.gov](https://www.data.gov/)
+* [Census](http://www.census.gov/data.html)
+* [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
+* [Health Data Gov](https://www.healthdata.gov/)
+* [AWS Public Datasets](https://aws.amazon.com/datasets/)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 ## Project Ideas
 list of project ideas
