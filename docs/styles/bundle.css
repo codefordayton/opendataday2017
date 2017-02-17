@@ -444,7 +444,7 @@ a {
   box-shadow: 0 0 0.5em #000;
   color: #f6f9f6;
   padding: 2.0em 0;
-  max-width: 1200px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto; }
   .footer::after {
@@ -507,5 +507,10 @@ a {
 nav {
   display: inline-block;
   margin-left: 2.0em; }
+
+.navlogo__odd {
+  height: 24.5px;
+  margin-right: 1.0em;
+  width: 73.5px; }
 
 /*# sourceMappingURL=bundle.css.map */
