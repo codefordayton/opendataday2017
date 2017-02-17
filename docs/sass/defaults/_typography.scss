@@ -4,6 +4,8 @@ $mediums-font-heading: medium-content-sans-serif-font, 'Lucida Grande', 'Lucida 
 
 $csstricks-mono: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono', 'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier, monospace;
 
+$odd: 'Noto Sans', sans-serif;
+
 $fontstack-mono: $csstricks-mono;
 $fontstack-body: $mediums-font-sansserif;
-$fontstack-headings: $mediums-font-heading;
+$fontstack-headings: $odd;

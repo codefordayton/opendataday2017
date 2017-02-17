@@ -1,24 +1,27 @@
 
-$clr-red: #db716c;
-$clr-blue: #6cb0db;
-$clr-blue-dark: #041f2d;
+$rta1: #4ba94f;
+$rta2: #c1d830;
+
 $clr-black: #000;
 $clr-off-white: #f6f9f6;
 $clr-white: #fff;
 
 $clr-gray: #777777;
 
-$clr-link-out: darken($clr-red, 10%);
-$clr-link-over: $clr-red;
+$clr-highlight: $rta1;
+$clr-highlight-alt: $rta2;
+
+$clr-link-out: darken($rta1, 10%);
+$clr-link-over: $rta1;
 
 // navigation
-$clr-navbg: $clr-blue-dark;
+$clr-navbg: $clr-black;
 $clr_navtxt: $clr-off-white;
 $clr-navborder: $clr-white;
 
 // header
-$clr-headerbg: $clr-blue-dark;
+$clr-headerbg: darken($rta1, 5%);
 $clr-headertxt: $clr-off-white;
 
 // icons
-$clr-icon: $clr-blue-dark;
+$clr-icon: $clr-gray;

@@ -1,0 +1,15 @@
+$header-size: 83%;
+.header {
+    align-items: center;
+    background: $clr-headerbg url(../images/dayton-skyline.svg) no-repeat center bottom;
+    background-size: contain;
+    color: $clr-headertxt;
+    display: flex;
+    font-size: 64px;
+    height: $header-size;
+    justify-content: center;
+    min-height: $header-size;
+    padding: 2.0em;
+    text-align: center;
+    text-shadow: 2px 2px 0 darken($clr-headerbg, 25%);
+}
