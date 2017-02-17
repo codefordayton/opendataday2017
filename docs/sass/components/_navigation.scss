@@ -9,6 +9,8 @@
     top: 0;
     width: 100%;
 
+    @include outer-container(100%);
+
     a {
         color: $clr-link-out;
         margin: 0 0.5em;
@@ -19,18 +21,57 @@
         }
     }
 
-    .logo {
-        display: inline-block;
+    nav {
+        padding: 0.5em;
+        text-align: center;
+
+        @include span-columns(12);
+
+        @include media($desktop) {
+            @include span-columns(4);
+            @include omega(4n);
+        }
+    }
+
+    .logos {
+        padding: 0.75em 0.5em;
+        text-align: center;
+
+        @include span-columns(12);
+
+        @include media($desktop) {
+            padding: 0.25em 0.5em;
+            text-align: right;
+
+            @include span-columns(4);
+            @include omega(4n);
+        }
+    }
+
+    .title {
+        padding: 0.5em;
+        text-align: center;
+
+        @include span-columns(12);
+
+        @include media($desktop) {
+            text-align: left;
+
+            @include span-columns(4);
+            @include omega(4n);
+        }
     }
 }
 
-nav {
-    display: inline-block;
-    margin-left: 2.0em;
-}
+
 
 .navlogo__odd {
     height: 24.5px;
     margin-right: 1.0em;
     width: 73.5px;
+}
+
+.navlogo__cfd {
+    height: 24px;
+    width: 24px;
 }
