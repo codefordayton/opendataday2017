@@ -5,7 +5,17 @@ permalink: /
 ---
 
 # Open Data Day 2017
-description of open data day, link to odd website, cfd website, this github
+Open Data Day is an annual celebration of open data in Dayton and all over
+the world. We will be using open data to build applications and visualizations
+to show the benefits of open data, as well as encouraging the adoption of open
+data policies in local government, businesses, and civil society.
+
+Please RSVP for the event on [Meetup.com](https://www.meetup.com/Code-for-Dayton/events/237417370/).
+
+## It's a Slackathon <i class="fa fa-slack"></i>!
+For this event, instead of meeting at a physical location, we’ll be
+coordinating via the #opendataday channel on the OpenDayton Slack team. To
+join, visit http://opendayton.org and click the <i class="fa fa-slack"></i> Slack button.
 
 ## Data
 * [Ohio Open Elections Data](https://github.com/openelections/openelections-data-oh)
