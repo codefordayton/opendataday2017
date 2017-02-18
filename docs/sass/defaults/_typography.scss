@@ -9,3 +9,9 @@ $odd: 'Noto Sans', sans-serif;
 $fontstack-mono: $csstricks-mono;
 $fontstack-body: $mediums-font-sansserif;
 $fontstack-headings: $odd;
+
+.odd-h1 {
+    height: 24.5px;
+    margin-right: 0.25em;
+    width: 73.5px;
+}

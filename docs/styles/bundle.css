@@ -411,6 +411,11 @@ html {
 .page {
   min-height: 100%; }
 
+.odd-h1 {
+  height: 24.5px;
+  margin-right: 0.25em;
+  width: 73.5px; }
+
 body,
 html {
   background: #c1d830;
@@ -429,13 +434,17 @@ h6 {
 
 a {
   color: #3b863e;
-  text-decoration: none; }
+  text-decoration: underline; }
   a:hover {
     color: #4ba94f;
     text-decoration: underline; }
 
+.content-ctr {
+  background: #f6f9f6; }
+
 .content {
-  background: #f6f9f6;
+  margin: 0 auto;
+  max-width: 1024px;
   padding: 1.5em 1.0em; }
 
 .footer {

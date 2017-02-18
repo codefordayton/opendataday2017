@@ -19,7 +19,7 @@ h6 {
 
 a {
     color: $clr-link-out;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
         color: $clr-link-over;

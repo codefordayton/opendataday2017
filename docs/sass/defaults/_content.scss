@@ -1,5 +1,10 @@
 
-.content {
+.content-ctr {
     background: $clr-off-white;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 1024px;
     padding: 1.5em 1.0em;
 }
