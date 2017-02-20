@@ -447,6 +447,21 @@ a {
   max-width: 1024px;
   padding: 1.5em 1.0em; }
 
+.data-icon {
+  display: inline;
+  fill: #4ba94f;
+  height: 64px;
+  width: 64px; }
+
+.ideas .idea {
+  display: block;
+  margin: 1.0em; }
+
+.ideas .idea__title {
+  display: block;
+  font-size: 1.25em;
+  font-weight: bold; }
+
 .footer {
   background: #333333;
   border-top: 1px solid #c1d830;

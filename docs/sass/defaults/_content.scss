@@ -8,3 +8,24 @@
     max-width: 1024px;
     padding: 1.5em 1.0em;
 }
+
+.data-icon {
+    display: inline;
+    fill: $clr-highlight;
+    height: 64px;
+    width: 64px;
+}
+
+.ideas {
+
+    .idea {
+        display: block;
+        margin: 1.0em;
+    }
+
+    .idea__title {
+        display: block;
+        font-size: 1.25em;
+        font-weight: bold;
+    }
+}
