@@ -5,23 +5,24 @@ permalink: /
 ---
 
 # <svg class="odd-h1"><use xlink:href="#odd-nostyle" /></svg>Open Data Day 2017
-Open Data Day is an annual celebration of open data in Dayton and all over
-the world. We will be using open data to build applications and visualizations
-to show the benefits of open data, as well as encouraging the adoption of open
-data policies in local government, businesses, and civil society.
+Open Data Day is an annual, international celebration of open data. In 2017, we're bringing that celebration to Dayton! We will use open data to build applications and visualizations that highlight the benefits of open data, as well as encourage the adoption of open data policies in local government, businesses, and civil society.
+
+We want to make this event inclusive to non-developers. There has been a significant reinvigoration of civic activism over the past few months, but, as a brigade, we have been mostly silent. Help us to refine and define the role our brigade should play in the discourse.
 
 Please RSVP for the event on <i class="fa fa-meetup"></i>[Meetup.com](https://www.meetup.com/Code-for-Dayton/events/237417370/).
 
 ## It's a Slackathon <i class="fa fa-slack"></i>!
-For this event, instead of meeting at a physical location, we’ll be
+We won't be meeting at a single venue for this event. Instead, we’ll be
 coordinating via the #opendataday channel on the OpenDayton Slack team. To
 join, visit [http://opendayton.org](http://opendayton.org) and click the <i class="fa fa-slack"></i> Slack button.
+
+Need a bit more social in your civic hacking? Impromptu or informal physical gatherings are encouraged, and easily coordinated on Slack.
 
 ## Project Ideas
 <span class="ideas">
     <span class="idea">
         <span class="idea__title">Ohio Election Data Visualizations</span>
-        Voter turnout is a
+        Voter turnout is a serious 
         [problem in the United States](http://www.pewresearch.org/fact-tank/2016/08/02/u-s-voter-turnout-trails-most-developed-countries/).
         Why is that? Are certain Ohio counties or precincts above or below the national average?
         Do we have problems with voter-to-precinct ratios that make it more problematic for certain
@@ -48,6 +49,7 @@ join, visit [http://opendayton.org](http://opendayton.org) and click the <i clas
 ## Open Data Sets
 * [Ohio Open Elections Data](https://github.com/openelections/openelections-data-oh)
 * [MVRPC Regional Resources](http://mvrpc.maps.arcgis.com/home/group.html?owner=tharner%40mvrpc.org&title=MVRPC%20Regional%20Resources&focus=all&q=)
+* [Ohio's Online Checkbook](http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook)
 * [Zillow Neighborhood Boundaries](https://www.zillow.com/howto/api/neighborhood-boundaries.htm)
 * [POI Factory](http://www.poi-factory.com/)
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
