@@ -22,7 +22,7 @@ Need a bit more social in your civic hacking? Impromptu or informal physical gat
 <span class="ideas">
     <span class="idea">
         <span class="idea__title">Ohio Election Data Visualizations</span>
-        Voter turnout is a serious 
+        Voter turnout is a serious
         [problem in the United States](http://www.pewresearch.org/fact-tank/2016/08/02/u-s-voter-turnout-trails-most-developed-countries/).
         Why is that? Are certain Ohio counties or precincts above or below the national average?
         Do we have problems with voter-to-precinct ratios that make it more problematic for certain
@@ -47,20 +47,33 @@ Need a bit more social in your civic hacking? Impromptu or informal physical gat
 
 
 ## Open Data Sets
+Need some Inspiration? Check out these datasets and think about how they can be
+utilized to build something awesome!
+
+### Elections and Politics
 * [Ohio Open Elections Data](https://github.com/openelections/openelections-data-oh)
+* [ProPublica Congress Data API](https://propublica.github.io/congress-api-docs)
+
+### Education
+* [College Scorecard Data](https://collegescorecard.ed.gov/data/)
+
+### Healthcare
+* [Health Data Gov](https://www.healthdata.gov/)
+
+### Local Data
 * [MVRPC Regional Resources](http://mvrpc.maps.arcgis.com/home/group.html?owner=tharner%40mvrpc.org&title=MVRPC%20Regional%20Resources&focus=all&q=)
 * [Ohio's Online Checkbook](http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook)
+
+### Miscellaneous Data Repositories
 * [Zillow Neighborhood Boundaries](https://www.zillow.com/howto/api/neighborhood-boundaries.htm)
 * [POI Factory](http://www.poi-factory.com/)
-* [College Scorecard Data](https://collegescorecard.ed.gov/data/)
-* [ProPublica Congress Data API](https://propublica.github.io/congress-api-docs)
 * [Data World](https://data.world/)
 * [Data.gov](https://www.data.gov/)
 * [Census](http://www.census.gov/data.html)
 * [CIA World Factbook](https://www.cia.gov/library/publications/the-world-factbook/)
-* [Health Data Gov](https://www.healthdata.gov/)
 * [AWS Public Datasets](https://aws.amazon.com/datasets/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+
 
 ## Projects
 completed and in-progress projects (will be updated during the day of the event)
