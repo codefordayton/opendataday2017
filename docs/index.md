@@ -53,18 +53,17 @@ utilized to build something awesome!
 ### Elections and Politics
 * [Ohio Open Elections Data](https://github.com/openelections/openelections-data-oh)
 * [ProPublica Congress Data API](https://propublica.github.io/congress-api-docs)
+* [Ohio's Online Checkbook](http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook)
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
 
 ### Healthcare
 * [Health Data Gov](https://www.healthdata.gov/)
-
-### Local Data
-* [MVRPC Regional Resources](http://mvrpc.maps.arcgis.com/home/group.html?owner=tharner%40mvrpc.org&title=MVRPC%20Regional%20Resources&focus=all&q=)
-* [Ohio's Online Checkbook](http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook)
+* [Ohio Hospitals](http://publicapps.odh.ohio.gov/facilityinformation/#)
 
 ### Miscellaneous Data Repositories
+* [MVRPC Regional Resources](http://mvrpc.maps.arcgis.com/home/group.html?owner=tharner%40mvrpc.org&title=MVRPC%20Regional%20Resources&focus=all&q=)
 * [Zillow Neighborhood Boundaries](https://www.zillow.com/howto/api/neighborhood-boundaries.htm)
 * [POI Factory](http://www.poi-factory.com/)
 * [Data World](https://data.world/)
