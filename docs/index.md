@@ -73,6 +73,11 @@ utilized to build something awesome!
 * [AWS Public Datasets](https://aws.amazon.com/datasets/)
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
+### Datazar
+* Our friends at Datazar are hosting lots of datasets ready for exploration and visualization on
+  their platform. Find out more at
+  <a href="https://www.datazar.com/explore/" target="_blank"><img src="images/datazar_workmark.png" /></a>
+
 
 ## Projects
 completed and in-progress projects (will be updated during the day of the event)
